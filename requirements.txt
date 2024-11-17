@@ -1,0 +1,5 @@
+Flask==2.0.1
+Flask-SocketIO==5.1.1
+Werkzeug==2.0.1
+pytube3==9.6.4
+Pillow==9.1.0
